@@ -1,0 +1,8 @@
+Date,Max_Temp,Min_Temp,Average_Temp,Condition,Rainfall(mm),Wind_Speed(km/h),Storm_Possible,Storm_Happened
+2026-05-01,34,26,30,Cloudy,2,25,No,No
+2026-05-02,35,27,31,Sunny,0,20,No,No
+2026-05-03,33,25,29,Rainy,12,45,Yes,No
+2026-05-04,32,24,28,Rainy,20,65,Yes,Yes
+2026-05-05,34,26,30,Cloudy,5,35,No,No
+2026-05-06,36,28,32,Sunny,0,30,No,No
+2026-05-07,35,27,31,Partly Cloudy,3,40,Yes,No
